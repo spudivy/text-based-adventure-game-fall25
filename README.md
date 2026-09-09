@@ -1,1 +1,1 @@
-# FALL 2025: CPSC2720 Major Project: Text Based Adventure Game
+Created in CPSC2720 at the University of Lethbridge.
